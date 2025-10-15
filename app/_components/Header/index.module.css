@@ -15,6 +15,7 @@
   height: 24px;
   width: auto;
 }
+
 @media (max-width: 640px) {
   .header {
     padding: 24px 16px 8px;
