@@ -5,7 +5,7 @@ import Header from "./_components/Header";
 import Footer from "./_components/Footer";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://localhost:3000"),
+  metadataBase: new URL("https://my-next-project2-tau.vercel.app"),
   title: {
     template: "%s | シンプルなコーポレートサイト",
     default: "シンプルなコーポレートサイト",
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     images: ["/ogp.png"],
   },
   alternates: {
-    canonical: "https://localhost:3000",
+    canonical: "https://my-next-project2-tau.vercel.app",
   },
 };
 
